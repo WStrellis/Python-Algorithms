@@ -7,7 +7,7 @@ class TestLinearSearch:
         self.test_list = [10, 56, 496, 334, 98, 105]
 
     def test_1(self):
-        assert linear_search(56) == 56
+        assert linear_search(56, self.test_list) == 1
 
     def test_2(self):
-        assert linear_search(1) == None
+        assert linear_search(1, self.test_list) == None
