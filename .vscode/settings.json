@@ -1,3 +1,8 @@
 {
-    "python.pythonPath": "/home/wstrellis/.local/share/virtualenvs/algorithms-cz7JBQRQ/bin/python"
+    "python.pythonPath": "/home/wstrellis/.local/share/virtualenvs/Python-Algorithms-csz1D4Pr/bin/python",
+    "python.testing.pytestEnabled": true,
+    "pythonTestExplorer.testFramework": "pytest",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
 }
