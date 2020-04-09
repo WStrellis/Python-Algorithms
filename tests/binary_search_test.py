@@ -1,5 +1,4 @@
 from algorithms.binary_search import binary_search
-import pytest
 
 
 class TestBinarySearch:
